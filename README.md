@@ -9,4 +9,13 @@ I write this project in C language in Keil platform.<br>
 
 <em>I exlpain every part in the code in lab3.c file above</em>.
 
-![ללא שם](https://user-images.githubusercontent.com/73124928/100110090-3d558c00-2e75-11eb-8b12-3fa448dd0e26.png)
+![4txo5d](https://user-images.githubusercontent.com/77153363/104731918-131d9d80-5745-11eb-80ba-c570bd1eabc8.gif)
+
+
+
+Link to video in my Channel:
+
+https://youtu.be/b6Uj2aaLZuw
+
+
+Enjoy.
